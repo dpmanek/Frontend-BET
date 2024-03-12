@@ -17,7 +17,9 @@ const Footer = () => {
 							<p className="f1">About</p>
 							<ul>
 								<li>
-									<a onClick={() => redirectRoute('/about-us')}>Team</a>
+									<a href onClick={() => redirectRoute('/about-us')}>
+										Team
+									</a>
 								</li>
 							</ul>
 						</div>

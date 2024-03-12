@@ -49,7 +49,7 @@ const Content = () => {
 			title: 'Customer Support',
 			description:
 				'If you have a problem, inform us by raising a ticket. Also track your issue with your Incident ID.',
-			url: '.static/images/TicketGeneration.jpg',
+			url: '.static/images/TG.JPG',
 		},
 	];
 	return (
